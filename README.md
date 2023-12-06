@@ -9,5 +9,7 @@ pip install pycryptodome
 pip install colorama
 
 git clone https://github.com/managercreo/user-c
+
 cd user-c
+
 python3 user-c.py
